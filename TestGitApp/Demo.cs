@@ -11,6 +11,7 @@ namespace TestGitApp
         Demo()
         {
             Console.WriteLine("Hello");
+            Console.WriteLine("Just Testing");
         }
     }
 }
